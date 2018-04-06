@@ -386,6 +386,9 @@ h1.logo {
 }
 h1.logo img {
   vertical-align: inherit;
+  width: 40%;
+  margin-top: -25px;
+  margin-bottom: -55px;
 }
 .header-info-list {
   margin-bottom: 0;
